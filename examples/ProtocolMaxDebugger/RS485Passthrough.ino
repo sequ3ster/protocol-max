@@ -1,7 +1,7 @@
 /*
-  RS-485 Passthrough
+  Protocol Max Debugger
 
-  This sketch relays data sent and received between the Serial port and the RS-485 interface
+  This sketch sent and received data on the RS-485 interface with the Protocol Max
 
   Circuit:
    - MKR board
@@ -16,8 +16,8 @@
        - Z \/\/ Y set to ON, if the RS-485 device doesn't provide termination
        - B \/\/ A set to ON, if the RS-485 device doesn't provide termination
 
-  created 4 July 2018
-  by Sandeep Mistry
+  created 30 Oktober 2021
+  by Benjamin Heimann
 */
 
 #include <ArduinoRS485.h>
