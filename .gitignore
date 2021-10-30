@@ -46,7 +46,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Libraries
+# Directories
+.vscode
 libraries
 
 # CPP Properties
