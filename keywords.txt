@@ -1,0 +1,16 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ProtocolMax	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+SendCommand68	KEYWORD2
+SendCommand69	KEYWORD2
+SendMessage	KEYWORD2
+Checksum	KEYWORD2
+available	KEYWORD2
